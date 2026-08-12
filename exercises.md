@@ -179,7 +179,10 @@ Reranking không khắc phục được evidence chưa được retrieve (ví d�
 
 ## Part 4 — Reflection
 
-Phần reflection.md được để nguyên để người học tự hoàn thiện từ ba failure cases thấp nhất ở Exercise 3.2.
+Đã hoàn thiện [reflection.md](reflection.md) từ ba failure cases thấp nhất ở
+Exercise 3.2. Report có benchmark summary, ba phân tích 5 Whys, failure
+clustering, improvement log, regression strategy và continuous improvement
+loop.
 
 ---
 
@@ -190,6 +193,6 @@ Phần reflection.md được để nguyên để người học tự hoàn thi�
 - [x] Exercise 3.1 hoàn thành trong file JSON và bảng kết quả.
 - [x] Exercise 3.2 có năm metrics, aggregate report và ba cases thấp nhất.
 - [x] Exercise 3.3 có rubric 1–5 và bias controls.
-- [ ] reflection.md có ba failure analyses và regression strategy.
+- [x] reflection.md có ba failure analyses và regression strategy.
 - [x] Đã copy template.py thành solution/solution.py.
 - [x] Exercise 3.5 hoàn thành; Exercise 3.4 không nằm trong phạm vi.
